@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @arindamgb
+/src/backend/database.py      @arindamgb
+/src/backend/routers/auth.py  @arindamgb
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @arindamgb
